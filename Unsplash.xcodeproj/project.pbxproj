@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		E934F7232D1ED4CB00BD18C0 /* environment.plist in Resources */ = {isa = PBXBuildFile; fileRef = E934F7212D1ED4C400BD18C0 /* environment.plist */; };
+		E9557B4E2D2F144300C981DC /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = E9557B4D2D2F144300C981DC /* .gitignore */; };
 		E999F3312D1C9D2B003E70DC /* Answers.md in Resources */ = {isa = PBXBuildFile; fileRef = E999F3302D1C9D26003E70DC /* Answers.md */; };
 		E999F3332D1C9EFE003E70DC /* .env in Resources */ = {isa = PBXBuildFile; fileRef = E999F3322D1C9EF5003E70DC /* .env */; };
 /* End PBXBuildFile section */
@@ -31,6 +32,7 @@
 
 /* Begin PBXFileReference section */
 		E934F7212D1ED4C400BD18C0 /* environment.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = environment.plist; sourceTree = "<group>"; };
+		E9557B4D2D2F144300C981DC /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		E999F3032D1C8468003E70DC /* Unsplash.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Unsplash.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E999F3132D1C846E003E70DC /* UnsplashTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UnsplashTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E999F31D2D1C846F003E70DC /* UnsplashUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UnsplashUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -91,6 +93,7 @@
 				E999F3322D1C9EF5003E70DC /* .env */,
 				E934F7212D1ED4C400BD18C0 /* environment.plist */,
 				E999F3052D1C8468003E70DC /* Unsplash */,
+				E9557B4D2D2F144300C981DC /* .gitignore */,
 			);
 			sourceTree = "<group>";
 		};
@@ -226,6 +229,7 @@
 			files = (
 				E999F3312D1C9D2B003E70DC /* Answers.md in Resources */,
 				E999F3332D1C9EFE003E70DC /* .env in Resources */,
+				E9557B4E2D2F144300C981DC /* .gitignore in Resources */,
 				E934F7232D1ED4CB00BD18C0 /* environment.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
